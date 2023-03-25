@@ -10,7 +10,7 @@ export class NewsItem extends Component {
           <img
             src={
               !imgUrl
-                ? "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2023/03_mar/23_thu/img_1679588088930_23.jpg?"
+                ? "https://images.unsplash.com/photo-1581092787765-e3feb951d987?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmJjJTIwbmV3c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
                 : imgUrl
             }
             className="card-img-top"
