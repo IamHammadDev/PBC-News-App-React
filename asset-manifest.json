@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PBC-News-App-React/static/css/main.abd64e84.css",
+    "main.js": "/PBC-News-App-React/static/js/main.891b2b56.js",
+    "static/js/787.fade2e9e.chunk.js": "/PBC-News-App-React/static/js/787.fade2e9e.chunk.js",
+    "static/media/loading.gif": "/PBC-News-App-React/static/media/loading.96e38378b12f6b5f991a.gif",
+    "index.html": "/PBC-News-App-React/index.html",
+    "main.abd64e84.css.map": "/PBC-News-App-React/static/css/main.abd64e84.css.map",
+    "main.891b2b56.js.map": "/PBC-News-App-React/static/js/main.891b2b56.js.map",
+    "787.fade2e9e.chunk.js.map": "/PBC-News-App-React/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.891b2b56.js"
+  ]
+}
